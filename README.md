@@ -1,2 +1,2 @@
 # Process-Synchronization
-Process synchronization program in C utilizing semaphores and mutex
+Process synchronization program written in C utilizing semaphores and mutex
